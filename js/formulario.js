@@ -21,7 +21,7 @@ window.onload = function () {
             gestionarXml(this);
         }
     };
-    xhttp.open("GET", "https://rawgit.com/LuisRigo/Cuestionario-Xpath/master/xml/PreguntasXML.xml", true);
+    xhttp.open("GET", "https://rawgit.com/LuisRigo/Cuestionario-Universidad/master/Ataulfo%20University%20Test/xml/PreguntasXML.xml", true);
     xhttp.send();
 	
 	
